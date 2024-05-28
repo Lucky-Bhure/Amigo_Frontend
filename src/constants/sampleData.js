@@ -49,11 +49,11 @@ export const sampleNotifications = [
 export const sampleMessage = [
   {
     attachments: [],
-    content: "L*uda ka Message hai",
+    content: "This is an Amigo Application",
     _id: "sfnsdjkfsdnfkjsbnd",
     sender: {
       _id: "user._id",
-      name: "Chaman ",
+      name: "Sahil ",
     },
     chat: "chatId",
     createdAt: "2024-02-12T10:41:30.630Z",
@@ -70,7 +70,7 @@ export const sampleMessage = [
     _id: "sfnsdjkfsdnfkdddjsbnd",
     sender: {
       _id: "sdfsdfsdf",
-      name: "Chaman  2",
+      name: "Yash",
     },
     chat: "chatId",
     createdAt: "2024-02-12T10:41:30.630Z",
@@ -99,7 +99,7 @@ export const dashboardData = {
 
   chats: [
     {
-      name: "LabadBass Group",
+      name: "Marvel Group",
       avatar: ["https://www.w3schools.com/howto/img_avatar.png"],
       _id: "1",
       groupChat: false,
@@ -115,7 +115,7 @@ export const dashboardData = {
       },
     },
     {
-      name: "L*Da Luston Group",
+      name: "Anime Group",
       avatar: ["https://www.w3schools.com/howto/img_avatar.png"],
       _id: "2",
       groupChat: true,
@@ -135,11 +135,11 @@ export const dashboardData = {
   messages: [
     {
       attachments: [],
-      content: "L*uda ka Message hai",
+      content: "Hey, i am Rahul from here",
       _id: "sfnsdjkfsdnfkjsbnd",
       sender: {
         avatar: "https://www.w3schools.com/howto/img_avatar.png",
-        name: "Chaman ",
+        name: "Rahul ",
       },
       chat: "chatId",
       groupChat: false,
@@ -157,7 +157,7 @@ export const dashboardData = {
       _id: "sfnsdjkfsdnfkdddjsbnd",
       sender: {
         avatar: "https://www.w3schools.com/howto/img_avatar.png",
-        name: "Chaman  2",
+        name: "Mohit",
       },
       chat: "chatId",
       groupChat: true,
